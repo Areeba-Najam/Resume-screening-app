@@ -1,13 +1,13 @@
-# Task 3 — AI Resume Screening System
+# AI Resume Screening System
 
 NLP-based resume ranking: TF-IDF + Cosine Similarity matches resumes against a job description.
 
 ## Project files
 ```
 task3_resume_screening/
-├── Task3_Resume_Screening_Colab.ipynb   # Run/learn the pipeline step-by-step on Colab
-├── resume_screener.py                   # Core NLP logic (imported by app.py)
-├── app.py                               # Streamlit web app
+├── Task3_Resume_Screening_Colab.ipynb   
+├── resume_screener.py                  
+├── app.py
 ├── requirements.txt
 ├── sample_resumes/                      # 5 sample .txt resumes to test with
 └── README.md
@@ -66,6 +66,6 @@ Create a `.gitignore` (already included) so `venv/`, `__pycache__/`, etc. aren't
 - To add real candidate names, rename resume files as `firstname_lastname.txt/.pdf`
   — the app title-cases the filename as the candidate name.
 - For advanced matching, swap TF-IDF for sentence embeddings
-  (e.g. `sentence-transformers` + cosine similarity) — same ranking logic applies.
+  (e.g. `sentence-transformers` + cosine similarity)  same ranking logic applies.
 - PDF text extraction quality depends on how the PDF was generated; scanned/image PDFs need OCR
   (not included here).
