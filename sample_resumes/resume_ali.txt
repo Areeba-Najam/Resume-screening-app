@@ -1,0 +1,17 @@
+Ali Raza
+Email: ali.raza@example.com | Phone: 0300-1234567
+
+Summary:
+Motivated Python developer with 2 years of experience building web applications using Django and Flask. Strong understanding of REST APIs, SQL databases and Git version control.
+
+Skills: Python, Django, Flask, REST API, SQL, Git, HTML, CSS, JavaScript, Docker
+
+Experience:
+Junior Software Engineer - TechNova Pvt Ltd (2023 - Present)
+- Developed REST APIs using Django REST Framework
+- Optimized SQL queries improving performance by 30%
+- Collaborated with frontend team on React integration
+
+Education:
+BS Computer Science - University of Central Punjab (2019 - 2023)
+CGPA: 3.6/4.0

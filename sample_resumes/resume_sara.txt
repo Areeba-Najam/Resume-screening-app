@@ -1,0 +1,17 @@
+Sara Khan
+Email: sara.khan@example.com | Phone: 0301-9876543
+
+Summary:
+Data Scientist with 3 years of experience in machine learning, NLP and data visualization. Proficient in Python, Pandas, Scikit-learn and TensorFlow.
+
+Skills: Python, Machine Learning, NLP, Pandas, NumPy, Scikit-learn, TensorFlow, SQL, Power BI
+
+Experience:
+Data Scientist - Insight Analytics (2022 - Present)
+- Built customer churn prediction models improving retention by 15%
+- Created NLP pipelines for text classification
+- Designed dashboards in Power BI for stakeholders
+
+Education:
+MS Data Science - LUMS (2020 - 2022)
+BS Computer Science - FAST NUCES (2016 - 2020)

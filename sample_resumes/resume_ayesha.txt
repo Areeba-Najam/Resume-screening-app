@@ -1,0 +1,16 @@
+Ayesha Malik
+Email: ayesha.malik@example.com | Phone: 0345-1112223
+
+Summary:
+Machine Learning Engineer with 4 years experience deploying ML models to production. Expert in Python, PyTorch, NLP, cloud deployment (AWS) and MLOps practices.
+
+Skills: Python, PyTorch, NLP, Machine Learning, AWS, Docker, Kubernetes, Scikit-learn, FastAPI, SQL
+
+Experience:
+ML Engineer - CloudSense AI (2021 - Present)
+- Deployed NLP-based resume screening system using BERT embeddings
+- Built and maintained CI/CD pipelines for ML models
+- Reduced inference latency by 40% using model quantization
+
+Education:
+BS Software Engineering - NUST (2016 - 2020)

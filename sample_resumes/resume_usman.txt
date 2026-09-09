@@ -1,0 +1,15 @@
+Usman Tariq
+Email: usman.tariq@example.com | Phone: 0321-4445556
+
+Summary:
+Backend developer specialized in Java and Spring Boot with some exposure to Python scripting.
+
+Skills: Java, Spring Boot, MySQL, REST API, Git, Python (basic)
+
+Experience:
+Software Engineer - Enterprise Solutions Ltd (2020 - Present)
+- Developed microservices using Spring Boot
+- Managed MySQL databases for high traffic applications
+
+Education:
+BS Computer Science - COMSATS (2015 - 2019)

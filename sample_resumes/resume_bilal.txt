@@ -1,0 +1,16 @@
+Bilal Ahmed
+Email: bilal.ahmed@example.com | Phone: 0333-5555555
+
+Summary:
+Fresh graduate with academic projects in web development. Familiar with HTML, CSS, JavaScript and basic Python.
+
+Skills: HTML, CSS, JavaScript, Python (basic), MS Office
+
+Experience:
+Intern - Local Web Agency (3 months)
+- Assisted in building static websites
+- Fixed minor bugs in WordPress themes
+
+Education:
+BS Information Technology - Punjab University (2020 - 2024)
+CGPA: 2.9/4.0
